@@ -1,0 +1,101 @@
+Here’s a detailed explanation of rules for **first-person**, **second-person**, and **third-person** singular forms in English:
+
+---
+
+### **1. First Person Singular (I)**
+- **Subject Pronoun:** "I"
+- **Object Pronoun:** "me"
+- **Possessive Adjective:** "my"
+- **Possessive Pronoun:** "mine"
+- **Reflexive Pronoun:** "myself"
+
+#### Rules:
+1. **Verb Agreement:**
+   - Use the base form of the verb without an "s."
+   - Example:  
+     - I eat lunch.  
+     - I go to school.
+
+2. **Possessive Usage:**
+   - Use "my" before a noun to show possession.  
+     - Example: My book is on the table.  
+   - Use "mine" as a possessive pronoun (no noun after it).  
+     - Example: This book is mine.
+
+3. **Reflexive Pronoun:**
+   - Use "myself" when the subject and object are the same.  
+     - Example: I taught myself to code.
+
+---
+
+### **2. Second Person Singular (You)**
+- **Subject Pronoun:** "you"
+- **Object Pronoun:** "you"
+- **Possessive Adjective:** "your"
+- **Possessive Pronoun:** "yours"
+- **Reflexive Pronoun:** "yourself"
+
+#### Rules:
+1. **Verb Agreement:**
+   - Use the base form of the verb without an "s."
+   - Example:  
+     - You eat lunch.  
+     - You go to school.
+
+2. **Possessive Usage:**
+   - Use "your" before a noun to show possession.  
+     - Example: Your phone is ringing.  
+   - Use "yours" as a possessive pronoun (no noun after it).  
+     - Example: This phone is yours.
+
+3. **Reflexive Pronoun:**
+   - Use "yourself" when the subject and object are the same.  
+     - Example: You should take care of yourself.
+
+---
+
+### **3. Third Person Singular (He/She/It)**  
+- **Subject Pronouns:** "he," "she," "it"  
+- **Object Pronouns:** "him," "her," "it"  
+- **Possessive Adjectives:** "his," "her," "its"  
+- **Possessive Pronouns:** "his," "hers," "its"  
+- **Reflexive Pronouns:** "himself," "herself," "itself"
+
+#### Rules:
+1. **Verb Agreement:**
+   - Add **"s"** or **"es"** to the base verb in the present tense.  
+     - Example:  
+       - He eats lunch.  
+       - She goes to school.  
+   - Exceptions: Modal verbs like "can," "will," and "should" do not take "s."  
+     - Example: He can swim.  
+
+2. **Possessive Usage:**
+   - Use "his," "her," or "its" before a noun to show possession.  
+     - Example: His car is red.  
+   - Use "his," "hers," or "its" as possessive pronouns (no noun after them).  
+     - Example: This car is hers.
+
+3. **Reflexive Pronouns:**
+   - Use "himself," "herself," or "itself" when the subject and object are the same.  
+     - Example:  
+       - He hurt himself.  
+       - She taught herself French.
+
+4. **Special Cases:**
+   - "It" is used for non-living things, animals (when gender is unknown), or abstract ideas.  
+     - Example: It is raining.
+
+---
+
+### **Summary Table**
+
+| **Person**           					| **Subject Pronoun** | **Object Pronoun** | **Possessive Adjective** | **Possessive Pronoun**  | **Reflexive Pronoun** |
+|------------------------------------------------|----------------------------|--------------------------|--------------------------------|------------------------------|-----------------------------|
+| First Person Singular                             |               I                   |            me                 |              my                       |             mine                   |          myself                |
+| Second Person Singular| you                  | 		you                |           you                 |             your                      |            yours                  |           yourself             |
+| Third Person Singular | he/she/it          |           him/her/it         |      his/her/its          |        his/hers/its               | himself/herself/itself  |
+
+---
+
+Let me know if you'd like examples for each rule! 😊

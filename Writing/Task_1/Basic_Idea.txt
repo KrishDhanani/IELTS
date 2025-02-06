@@ -1,0 +1,17 @@
+In IELTS Writing Task 1, you’ll typically encounter a variety of topics. Here’s a brief overview of the common types:
+
+1. **Bar Charts**: These show data in the form of bars, comparing quantities across different categories. For example, a bar chart might show the population of different countries or the sales of various products in a year.
+
+2. **Line Graphs**: These display information over time and show trends. You might be asked to describe changes in variables like the temperature, internet usage, or production rates over several years.
+
+3. **Pie Charts**: These represent data as a whole, divided into sections. Each section corresponds to a percentage of the total, such as showing the distribution of a country’s energy consumption or the market share of different companies.
+
+4. **Tables**: Tables provide detailed numerical information in rows and columns. You might need to summarize information like the number of visitors to different tourist attractions in various months or countries' exports of goods.
+
+5. **Process Diagrams**: These show steps in a process or flow. You could be asked to describe the process of how something is made, like how electricity is generated or how a product goes from production to market.
+
+6. **Maps**: Maps ask you to describe the layout of a place, either before and after a change or the layout of various locations at one point in time. You might need to compare the location of facilities or roads in a city at two different times.
+
+7. **Combination of Graphs**: Sometimes, you’ll be given a combination of charts, such as a bar chart with a line graph, or a table with a pie chart. Your task will be to summarize and compare the data from both sources.
+
+In all cases, your goal is to summarize the key features of the data, making comparisons and highlighting any trends or notable differences. Let me know if you'd like help with a specific topic!
