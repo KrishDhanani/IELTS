@@ -131,3 +131,34 @@ Answers:
 28. શું તમે મને બીજું મેનુ આપી શકો છો, કારણ કે મને આમાં કંઈ ખાસ દેખાતું નથી?
 29. મારે એક ગરમ પીણું જોઈએ છે, કેમ કે મને ઠંડી હવામાન ગમતું નથી.
 30. શું તમે મને થોડી ડિસ્કાઉન્ટ આપી શકો છો, કારણ કે હું તમારો નિયમિત ગ્રાહક છું?
+
+Answers:
+
+21. I want a tasty breakfast, but it should not be a heavy one.
+
+22. Could you give me an extra napkin because I need it?
+(Spelling of napkin)
+
+23. I need to go early because I have a meeting.
+
+24. Could you help me learn how to make coffee because I want to make it at home?
+(Corrections:
+"help me on how to make coffee" ❌ → "help me learn how to make coffee" ✅: "Help me on how to" is not a natural construction. Instead, "help me learn how to" sounds more correct.)
+
+25. I need some quiet time so that I can focus on my work.
+(Spelling of quiet)
+
+26. Can you tell me some thing about this cafe because I like it?
+
+27. I want to eat sweets, yet they should not be too sweet.
+(Added a comma after "sweets" for better readability.)
+
+28.  Would you give me another menu because there isn’t any special item in this one?
+(Corrections:
+"no any" ❌ → "isn’t any" ✅: "No any" is incorrect; instead, we use "isn't any."
+"in this" ❌ → "in this one" ✅: "One" clarifies that you are referring to the current menu.)
+
+29. I need hot a drink because I don't like cold weather.
+
+30. Could you give me a discount because I'm a regular customer?
+(spelling of customer)
