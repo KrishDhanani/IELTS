@@ -9,10 +9,22 @@ feal			-> feel angry
 feel 			-> perceive, sense, detect
 Fairs			-> expo, exhibition, display, clear, bright (મેળા)
 reflect		-> image, mirror, duplicate, reproduce (પ્રતિબિંબિત)
+dubious		-> Not quite sure
+puke			-> vomit, gag
+Regular		-> frequent, periodic, punctual, like a clock work (નિયમિત)
+improve		-> will be better, enhance, rectify (સુધારો)
+organized		-> manage, arrange
+restaurant	-> dinner, cafe, cafeteria
+midnight		-> overnight, late at night
+rush			-> accelarate, hurry, push, urge
 
 
 
-
+bald			-> with little or no hair on the head
+acrophobia	-> I have fear of hights
+claus	trophobia	-> I'm afraid of small closed spaces
+glassophobia	-> I'm afraid of speaking in front of people
+mysophobia	-> I'm afraid of germs
 
 
 
@@ -28,3 +40,4 @@ leader, steps, stairs, elevator
 
 
 fly is down (ચેન ખુલી છે )(Someone pain chain is open)
+
