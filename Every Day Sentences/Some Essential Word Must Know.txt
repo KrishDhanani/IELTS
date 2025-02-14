@@ -1,0 +1,103 @@
+(A1 level)
+(verbs)
+Do		-> 
+make	->
+Go		-> 
+Know		->
+Say		->
+See		->
+Take		->
+Want	->
+Work	->
+Get		->
+Look		->
+Use		->
+Help		->
+Find		->
+Give		->
+Think	->
+Feel		->
+Understand->
+
+Need	->
+Accept	->
+Employ	->
+Borrow	->
+Solve	->
+Invent	->
+
+Access	->
+Annoy	->
+Charge	->
+Influence ->
+Injure	->
+
+Acquire	-> Buy Something, get Something, Learn Something
+Conduct	-> Organize or carry out an activity or research
+Enhance	-> improve
+Possess	-> have or own something
+Recall	->
+Reveal	->
+Approach	->
+
+
+
+(Adjectives)
+Big		->
+Good		->
+Little	->
+New		->
+Right	->
+Easy		->
+Difficult	->
+High		->
+Low		->
+Various	->
+Recent	->
+Particular	->
+Opportunity 	->
+Possibility		->
+Tablet		->
+Achievement 	-> 
+Familiar		->
+Advanced		->
+Native		->	
+Crucial		-> Very important
+Decent		-> Good enough
+Flexible		-> Able to change easily or adapt to new situation
+Initial		-> beginning 
+Significant 	-> major
+Particular		->
+
+(Nouns)	
+Day		->
+Time		->
+Child		->
+Adult	->
+Accommodation -> Place where you stay
+Achievement 	->
+Staff 		->
+Emergency	->
+Neighborhood	->
+Majority		-> Most of
+Inquiry		-> Question or request for information
+Commitment	-> Dedication
+Requirement	-> Something needed or necessary
+
+(Adverb)
+Furthermore	-> also, In addition to
+Apparently	-> turns out
+Appropriately	-> in a way that is correct for the situation
+	
+
+(Conjunctions)
+And, But, Or, Because, If, So, Already, Although, Despite
+
+(Preposition)
+Since, Despite, 
+
+(Question word)
+What, Who, Where, When, Why, How, 
+
+(Pronouns)
+My, Mine, His, Her, Them, Him, Me, 
