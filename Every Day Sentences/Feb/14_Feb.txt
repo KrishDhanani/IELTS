@@ -85,6 +85,7 @@ Answers:
 
 11. They recently bought a new car.
 
+
 12. If you want to top next year, start studying from now onwards.
 (Corrections:
 1️⃣ "do top" ❌ → "top" ✅
@@ -94,6 +95,7 @@ Answers:
 3️⃣ "onwords" ❌ → "onwards" ✅
 The correct spelling is "onwards," not "onwords.")
 
+
 13. I wished I could have arrived early.
 13. I wish I could have gotten here a little earlier.
 
@@ -101,7 +103,37 @@ The correct spelling is "onwards," not "onwords.")
 14. When I complete my college, I will go abroad to study.
 
 
+15. When I was talking on phone, light .
+(Corrections:
+1️⃣ "on phone" ❌ → "on the phone" ✅
+We always say "on the phone" (with "the") when referring to a phone conversation.
+2️⃣ "light was turned on and off happened" ❌ → "the light kept turning on and off" ✅
+"Was turned on and off happened" is incorrect. Instead, "kept turning on and off" better describes the continuous action.)
 
+
+16. If you have any doubt, you can talk to me anytime. 
+
+17. My sister has never been to the beach.
+(Corrections:
+1️⃣ "never ever gotten" ❌ → "has never been" ✅
+The correct tense for life experiences is "has never been" (present perfect).
+"Never ever" sounds too informal and unnecessary here.
+2️⃣ "beach" ❌ → "the beach" ✅
+We usually say "the beach" when referring to a general beach experience.)
+
+18. I can't believe that he did this.
+(Correctoin:
+2️⃣ "does" ❌ → "did" ✅
+Since you are expressing disbelief about a past action, we use "did" (past simple).)
+
+19. I always help my mother cook dinner.
+(Corrections:
+1️⃣ "helping" ❌ → "help" ✅
+"Always" is used with simple present ("help") because it's a regular habit.
+2️⃣ "to cook" ❌ → "cook" ✅
+After "help," we usually use the bare infinitive ("cook") instead of "to cook.")
+
+20. Maybe this season will be very cold.
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
@@ -116,4 +148,40 @@ The correct spelling is "onwards," not "onwords.")
 29. તે પૂછતો રહ્યો કે મારે શું કરવું જોઈએ.  
 30. જ્યારે હું સ્કૂલ જતો હતો ત્યારે વરસાદ પડતો હતો.  
 
-તમે એક-એક કરી અંગ્રેજી અનુવાદ મોકલો, અને હું સુધારો કરીશ! 🚀
+Answers:
+
+21. If you don't work hard, you'll fail.
+
+22. He will tell me what to do.
+
+23. I will try to spend more time with my friends.
+
+24. I didn't know that he already arrived home.
+(Corrections:
+1️⃣ "didn't knew" ❌ → "didn't know" ✅
+After "didn't," always use the base form of the verb (know, not knew).
+2️⃣ "he already arrived" ❌ → "he had already arrived" ✅
+Since the action happened before another past moment, we use past perfect ("had arrived").
+3️⃣ "at home" ❌ → "home" ✅
+"Arrived home" is more natural than "arrived at home.")
+
+25. By the time he arrived, I had already fallen asleep.
+(Corrections:
+1️⃣ "arrives" ❌ → "arrived" ✅
+"By the time" refers to a past event, so we need past tense ("arrived").
+2️⃣ "was already slept" ❌ → "had already fallen asleep" ✅
+"Slept" is a past simple verb, but here we need past perfect ("had fallen asleep").)
+
+26. If you understand, the situation will be easier. 
+
+27. I never felt that I was failing.
+
+28. Until now, I have never traveled by plane.
+(Until now, I have never traveled by plane.	-> 	અત્યાર સુધી, મેં ક્યારેય વિમાનમાં મુસાફરી કરી નથી.
+Until now, I had never traveled by plane.		-> 	અત્યાર સુધી, મેં ક્યારેય વિમાનમાં મુસાફરી કરી નહોતી.)
+
+29. He kept asking what to do.
+
+30.  When I was going to school, it was raining.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
