@@ -35,13 +35,16 @@ Also			-> Moreover
 But			-> Yet
 Buy			-> Purchase
 Use			-> Exploit
+chaotic		-> Messy, Confused
+snack		-> refreshment, Breakfast
+feeling strange -> feeling weared, feeling awkward
 
 
 
 
 bald			-> with little or no hair on the head
 acrophobia	-> I have fear of hights
-claus	trophobia	-> I'm afraid of small closed spaces
+claustrophobia	-> I'm afraid of small closed spaces
 glassophobia	-> I'm afraid of speaking in front of people
 mysophobia	-> I'm afraid of germs
 backing		-> make desserts like; cake, chocolate cake, cookies etc.
@@ -59,5 +62,5 @@ leader, steps, stairs, elevator
 
 
 
-fly is down (ચેન ખુલી છે )(Someone pain chain is open)
+fly is down (ચેન ખુલી છે )(Someone pant chain is open)
 
