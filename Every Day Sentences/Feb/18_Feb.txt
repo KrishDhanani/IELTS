@@ -14,12 +14,43 @@ Based on your mistakes, you need more practice in the following areas:
 2️⃣  જો તું સમયસર નહીં પહોંચે, તો અમે તને બગાડશું નહીં.  
 3️⃣  મેં હમણાં જ મારા પિતા માટે એક ભેટ ખરીદી.  
 4️⃣  તે મારી પાસે આવ્યો અને પૂછ્યું કે મારે શું કરવું જોઈએ.  
-5️⃣  જો હું તને પહેલી જ વાર મળ્યો હોત, તો હું તારા વિશે વધુ જાણવા ઇચ્છતો.  
+5️⃣  જો હું તને પહેલી જ મળ્યો હોત, તો હું તારા વિશે વધુ જાણવા ઇચ્છતો.  
 6️⃣  તું મને બે દિવસથી કોલ કરવાનો પ્રયાસ કરી રહ્યો છે?  
 7️⃣  મેં ક્યારેય વિદેશ પ્રવાસ કર્યો નથી, પણ મને આ ઇચ્છા છે.  
 8️⃣  અમે અમારી પરીક્ષાની તૈયારી એક મહિના માટે કરી રહ્યા છીએ.  
 9️⃣  તું મને હમણાં સુધી શા માટે ફોન નથી કર્યો?  
 🔟  જો તારે એક સારી નોકરી મેળવવી હોય, તો તારે મહેનત કરવાની જરૂર છે.  
+
+Answers:
+
+1. Where did you go yesterday?
+
+2. If you don't arrive on time, we won't spoil you.
+(Contraction: don't -> do not, won't -> will not)
+
+3. I recently bought a gift for my dad.
+
+4. He came to me and asked what he should I do.
+
+5. If I had met you earlier, I would have liked to know more about you.
+(Corrections & Explanation:
+1️⃣ "If I met" ❌ → "If I had met" ✅
+This is a Third Conditional sentence (used for past hypothetical situations).
+Structure: If + past perfect, would have + past participle.
+2️⃣ "I would like" ❌ → "I would have liked" ✅
+Since we're talking about a past hypothetical situation, the second clause should also be in the past (would have liked).)
+
+6. Had you been trying to call me?
+
+7. I have never been abroad, but I wish to go.
+
+8. We have been preparing for exam for last one month. 
+
+9. Why have you not called me till now?
+
+10. If you want a good job, then you need to practice more.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 1️⃣1️⃣  તું હમણાં સુધી આ કામ પૂરું કરી શક્યો હોત.  
 1️⃣2️⃣  મને લાગે છે કે તે પણ આજે પાર્ટીમાં આવશે.  
@@ -31,6 +62,34 @@ Based on your mistakes, you need more practice in the following areas:
 1️⃣8️⃣  તારે તારા માતા-પિતાને સલાહ પૂછીવી જોઈએ.  
 1️⃣9️⃣  જો તે મને આ વાત કહેલી હોત, તો હું તેને મદદ કરી હોત.  
 2️⃣0️⃣  હું તને ગઈ કાલે મળવા માંગતો હતો, પણ તું વ્યસ્ત હતો.  
+
+Answers:
+
+11. You could have finished the work till now.
+
+12. I think he will also come to the party.
+
+13. I always woke up early in the morning.
+(Corrections & Explanation:
+1️⃣ "Was wake up" ❌ → "Woke up" ✅
+"Wake up" is a verb, so we don’t use "was" before it.
+"Woke up" (Past Simple) is correct for a past habit.)
+
+14. After he met me directly, he started laughing.
+
+15. I just took out that photo.
+
+16. He will go to watch a movie tonight.
+
+17. Recently you have been talking to my friend.
+
+18. You should take an advice from my parents.
+
+19. If you had talked to me before, I could have help you out.
+
+20. I wanted to meet you yeasterday, but that time, you were busy.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 2️⃣1️⃣  મારા પિતાએ હમણાં સુધી આ વિશે મને કશું કહ્યું નથી.  
 2️⃣2️⃣  તું તારા ભવિષ્ય માટે શું વિચારી રહ્યો છે?  
@@ -45,4 +104,32 @@ Based on your mistakes, you need more practice in the following areas:
 
 ---
 
-🔹 Try translating them one by one into English. I'll correct and explain each one for you! 🚀
+21. My father had not told me anything about this.
+
+22. What do you think about my future?
+(Corrections & Explanation:
+1️⃣ "Are you think" ❌ → "Do you think" ✅
+"Think" is a main verb, so we use "do" to form a question in the present simple tense:
+👉 "What do you think...?")
+
+23. If he had come on time, we could have started.
+(Corrections & Explanation:
+1️⃣ "Had came" ❌ → "Had come" ✅
+After "had", we use the past participle, which is "come", not "came."
+2️⃣ "Could started" ❌ → "Could have started" ✅
+After "could", we use "have" + past participle ("started") in a third conditional sentence.)
+
+
+24. I was too tired in the morning.
+
+25. Have you read this book yet?
+
+26. I really don't know what to do.
+
+27. I will go to meet my friend tonight.
+
+28. If you work hard, you'll definitely succed.
+
+29. You are always honest with me.
+
+30. If you ever in trouble, let me know.

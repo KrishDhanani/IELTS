@@ -38,8 +38,8 @@ Use			-> Exploit
 chaotic		-> Messy, Confused
 snack		-> refreshment, Breakfast
 feeling strange -> feeling weared, feeling awkward
-
-
+yet			-> up to this point
+Hang onto		-> Keep
 
 
 bald			-> with little or no hair on the head
