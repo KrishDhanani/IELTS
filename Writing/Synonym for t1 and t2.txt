@@ -23,14 +23,14 @@ throughout	-> entire
 appriciation	-> thank you
 amazed 		-> surprise, wonder, shoked
 delicious		-> flavorful, tasty, yummy
-Nowadays		-> આજકાલ
+Nowadays		-> These days, in the recent years(આજકાલ)
 definitely		-> for sure, certainly, really
 Sorry		-> Apologize
 Problem		-> Issue
 Improve		-> Enhance
 Idea			-> Concept
-Many		-> Numerous
-Show		-> Demonstrate
+Many			-> Numerous
+Show			-> Demonstrate
 Also			-> Moreover
 But			-> Yet
 Buy			-> Purchase
@@ -40,15 +40,16 @@ snack		-> refreshment, Breakfast
 feeling strange -> feeling weared, feeling awkward
 yet			-> up to this point
 Hang onto		-> Keep
-
-
-bald			-> with little or no hair on the head
-acrophobia	-> I have fear of hights
-claustrophobia	-> I'm afraid of small closed spaces
-glassophobia	-> I'm afraid of speaking in front of people
-mysophobia	-> I'm afraid of germs
-backing		-> make desserts like; cake, chocolate cake, cookies etc.
-appetizer		-> which make you hunger
+Diffrence		-> Dissimilarity, Distinctness, Diversity, Contrast, Variety
+between countries	-> among nations
+All over the world	-> Overall, global, World wide
+less evident	-> less visible, less distinct, disappearing
+Share		-> give and take part, dispence
+each year		-> every year, as time goes by
+same fashions, advertising...	-> similar lifestyle
+advantages	-> benifits, gain, profit, plus, positive
+disadvantages	-> drawbacks, loss, negative, minus
+outweight		-> more significant than
 
 
 

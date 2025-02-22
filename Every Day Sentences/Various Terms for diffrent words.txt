@@ -1,0 +1,12 @@
+Terms for Meal:
+Breakfast		: The first meal of the day
+Lunch		: Mid day meal
+Brunch		: It's meal that serves as Breakfast and Lunch
+Elevenses(UK)	: Snack eaten at 11 am.
+Supper		: Evening meal (Usually take at 6 to 7am)
+Luncheon		: It's lunch (Formal lunch)
+Snack		: Small meal
+Dinner		: main meal
+Aptetiser(UK) & Appetizer(US)	   : forth meal(midnight snack)
+
+
